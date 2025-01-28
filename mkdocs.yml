@@ -21,3 +21,4 @@ theme:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  
